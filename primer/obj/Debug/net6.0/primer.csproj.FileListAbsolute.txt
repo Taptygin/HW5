@@ -1,0 +1,15 @@
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\bin\Debug\net6.0\primer.exe
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\bin\Debug\net6.0\primer.deps.json
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\bin\Debug\net6.0\primer.runtimeconfig.json
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\bin\Debug\net6.0\primer.dll
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\bin\Debug\net6.0\primer.pdb
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\primer.csproj.AssemblyReference.cache
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\primer.GeneratedMSBuildEditorConfig.editorconfig
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\primer.AssemblyInfoInputs.cache
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\primer.AssemblyInfo.cs
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\primer.csproj.CoreCompileInputs.cache
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\primer.dll
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\refint\primer.dll
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\primer.pdb
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\primer.genruntimeconfig.cache
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\primer\obj\Debug\net6.0\ref\primer.dll
