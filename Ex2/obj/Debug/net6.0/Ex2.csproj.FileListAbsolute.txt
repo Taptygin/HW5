@@ -1,0 +1,15 @@
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\bin\Debug\net6.0\Ex2.exe
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\bin\Debug\net6.0\Ex2.deps.json
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\bin\Debug\net6.0\Ex2.runtimeconfig.json
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\bin\Debug\net6.0\Ex2.dll
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\bin\Debug\net6.0\Ex2.pdb
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\Ex2.csproj.AssemblyReference.cache
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfoInputs.cache
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfo.cs
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\Ex2.csproj.CoreCompileInputs.cache
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\Ex2.dll
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\refint\Ex2.dll
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\Ex2.pdb
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\Ex2.genruntimeconfig.cache
+F:\-=GB=-\-=git=-\C#Seminar\HomeWork5\Ex2\obj\Debug\net6.0\ref\Ex2.dll
